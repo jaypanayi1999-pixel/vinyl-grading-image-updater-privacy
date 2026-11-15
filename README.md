@@ -1,0 +1,1 @@
+# vinyl-grading-image-updater-privacy
